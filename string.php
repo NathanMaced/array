@@ -1,6 +1,6 @@
 <?php 
 
-	$texto = "micro Computador";
+	$texto = "micro computador";
 	$tamanho = strLen($texto); //tamanho da string
 
 	echo "<br/>".$texto. " possui ".$tamanho." caracteres";
